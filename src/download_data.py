@@ -1,7 +1,6 @@
 import pandas as pd
 import os
 
-# make sure folders exist
 os.makedirs("data/raw", exist_ok=True)
 
 # Iris dataset
