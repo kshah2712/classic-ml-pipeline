@@ -199,6 +199,6 @@ This is **Project 1 of 10** in a progressive ML + GenAI portfolio:
 
 ## 👤 Author
 
-**Your Name**
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**Kashyap Shah**
+
 
